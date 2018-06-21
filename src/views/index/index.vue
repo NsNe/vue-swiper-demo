@@ -74,19 +74,19 @@
     background-size: cover;
     background-position: center;
     &.slide-1 {
-      background-image:url('/static/images/1.jpg');
+      background-image:url('../../../static/images/1.jpg');
     }
     &.slide-2 {
-      background-image:url('/static/images/2.jpg');
+      background-image:url('../../../static/images/2.jpg');
     }
     &.slide-3 {
-      background-image:url('/static/images/3.jpg');
+      background-image:url('../../../static/images/3.jpg');
     }
     &.slide-4 {
-      background-image:url('/static/images/4.jpg');
+      background-image:url('../../../static/images/4.jpg');
     }
     &.slide-5 {
-      background-image:url('/static/images/5.jpg');
+      background-image:url('../../../static/images/5.jpg');
     }
   }
   .gallery-top {
