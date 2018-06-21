@@ -1,5 +1,5 @@
 <template>
-  <md-card>
+  <div>
     <div>
       <div class="md-subhead">
         <span>Thumbs Gallery With Two-way Control Loop</span>
@@ -28,7 +28,7 @@
         <swiper-slide class="slide-5"></swiper-slide>
       </swiper>
     </div>
-  </md-card>
+  </div>
 </template>
 
 
